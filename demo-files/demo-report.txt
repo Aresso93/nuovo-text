@@ -1,0 +1,3 @@
+Numero di caratteri: 279
+Numero di parole: 56
+Carattere più comune: a
